@@ -1,0 +1,17 @@
+A.
+1. bool isA = (grade >= 90 && grade <= 100)
+2. 0.60000
+3. vượt quá giới hạn dữ liệu ban đầu
+4. false/0
+6. - báo lỗi ở "three"
+   - không có chuyện gì xảy ra
+7. 
+0
+0.75
+0.75
+0.75
+8.Khai báo trùng lặp
+9. biến arg1 chỉ tới biến có giá trị 'A'
+10. biến arg1 chỉ tới biến có giá trị -1
+11. chưa ép kiểu phép tính 5/9 dẫn đến kết quả sai
+12. here
