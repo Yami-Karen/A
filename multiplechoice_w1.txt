@@ -3,6 +3,7 @@ A.
 2. 0.60000
 3. vượt quá giới hạn dữ liệu ban đầu
 4. false/0
+5. không xuất hiện kết quả
 6. - báo lỗi ở "three"
    - không có chuyện gì xảy ra
 7. 
